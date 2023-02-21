@@ -1,0 +1,17 @@
+{
+  "name": "1era-entrega-proyecto-final",
+  "version": "1.0.0",
+  "description": "Primera Entrega Proyecto Final",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "start:nodemon": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Facundo Atencio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
